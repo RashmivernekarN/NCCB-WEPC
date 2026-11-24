@@ -11,7 +11,7 @@
 work together for crime prevention, public awareness, women safety, 
 and women empowerment in society.
 
-Our Vision - **A Crime-Free, Safe and Empowered Society.**
+## Our Vision - **A Crime-Free, Safe and Empowered Society.**
 
 ## Executive Summary:
 
@@ -42,12 +42,12 @@ All our events, programmes, photos and reports will be uploaded in this reposito
 - Sweets Distribution & Social Service
 
 ## Key documented outcomes:
-•	Environmental action through tree planting and school green initiatives.
-•	Support for children through health screening, nutrition support and first-aid preparedness.
-•	Digital inclusion through a free 60-day computer education program.
-•	Education modernization through the Black Board to Smart Board initiative.
-•	Community care through food and medicine distribution and social service at an old age home.
-•	Recognition of security personnel for discipline and dedicated service.
+- •	Environmental action through tree planting and school green initiatives.
+- •	Support for children through health screening, nutrition support and first-aid preparedness.
+- •	Digital inclusion through a free 60-day computer education program.
+- •	Education modernization through the Black Board to Smart Board initiative.
+- •	Community care through food and medicine distribution and social service at an old age home.
+- •	Recognition of security personnel for discipline and dedicated service.
 
 
 ## 📂 Repository Structure
@@ -67,4 +67,4 @@ Together We Can Make A Difference!
 Director: Rashmi Vernekar
 
 ---
-*Service, Safety, Empowerment 🙏*
+**Service, Safety, Empowerment 🙏**
