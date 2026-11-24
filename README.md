@@ -13,6 +13,10 @@ and women empowerment in society.
 
 Our Vision - **A Crime-Free, Safe and Empowered Society.**
 
+## Executive Summary:
+
+This annual report presents the social activities conducted by the National Crime Control Board (NCCB), Hubli Taluk-Dharwad, during the 2025/26 reporting period under the leadership of the Director. The initiatives covered environmental protection, school development, health and nutrition, digital literacy, modern education, patriotism and security awareness, community support, and recognition of dedicated service personnel.
+
 ## 👩‍💼 Leadership
 
 **Hubballi Taluk Director**
@@ -36,6 +40,15 @@ All our events, programmes, photos and reports will be uploaded in this reposito
 - Women Safety Awareness
 - Drug Free Society Campaign
 - Sweets Distribution & Social Service
+
+## Key documented outcomes:
+•	Environmental action through tree planting and school green initiatives.
+•	Support for children through health screening, nutrition support and first-aid preparedness.
+•	Digital inclusion through a free 60-day computer education program.
+•	Education modernization through the Black Board to Smart Board initiative.
+•	Community care through food and medicine distribution and social service at an old age home.
+•	Recognition of security personnel for discipline and dedicated service.
+
 
 ## 📂 Repository Structure
 
