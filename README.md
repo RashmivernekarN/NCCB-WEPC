@@ -1,7 +1,7 @@
 # NCCB - WEPC
 ### National Crime Control Board & Women Empowerment Protection Cell
 
-> Works for Crime Awareness and Crime Prevention - Cyber Crime, Drug Abuse, Human Trafficking, Corruption.
+ Works for Crime Awareness and Crime Prevention - Cyber Crime, Drug Abuse, Human Trafficking, Corruption.
 
 ---
 
@@ -42,12 +42,12 @@ All our events, programmes, photos and reports will be uploaded in this reposito
 - Sweets Distribution & Social Service
 
 ## Key documented outcomes:
-- •	Environmental action through tree planting and school green initiatives.
-- •	Support for children through health screening, nutrition support and first-aid preparedness.
-- •	Digital inclusion through a free 60-day computer education program.
-- •	Education modernization through the Black Board to Smart Board initiative.
-- •	Community care through food and medicine distribution and social service at an old age home.
-- •	Recognition of security personnel for discipline and dedicated service.
+- 	Environmental action through tree planting and school green initiatives.
+- 	Support for children through health screening, nutrition support and first-aid preparedness.
+- 	Digital inclusion through a free 60-day computer education program.
+- 	Education modernization through the Black Board to Smart Board initiative.
+- 	Community care through food and medicine distribution and social service at an old age home.
+- 	Recognition of security personnel for discipline and dedicated service.
 
 
 ## 📂 Repository Structure
