@@ -15,7 +15,7 @@ and women empowerment in society.
 
 ## Executive Summary:
 
-This annual report presents the social activities conducted by the National Crime Control Board (NCCB), Hubli Taluk-Dharwad, during the 2025/26 reporting period under the leadership of the Director. The initiatives covered environmental protection, school development, health and nutrition, digital literacy, modern education, patriotism and security awareness, community support, and recognition of dedicated service personnel.
+  This annual report presents the social activities conducted by the National Crime Control Board (NCCB), Hubli Taluk-Dharwad District, during the 2025/26 reporting period under the leadership of the Director. The initiatives covered environmental protection, school development, health and nutrition, digital literacy, modern education, patriotism and security awareness, community support, and recognition of dedicated service personnel.
 
 ## 👩‍💼 Leadership
 
